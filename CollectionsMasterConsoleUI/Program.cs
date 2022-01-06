@@ -101,17 +101,17 @@ namespace CollectionsMasterConsoleUI
 
         private static void ThreeKiller(int[] numbers)
         {
-            
+            Console.WriteLine($"ThreeKiller");
         }
 
         private static void OddKiller(List<int> numberList)
         {
-            
+            Console.WriteLine($"OddKiller");
         }
 
         private static void NumberChecker(List<int> numberList, int searchNumber)
         {
-            
+            Console.WriteLine($"NumberCheckers");
         }
 
         private static void Populater(List<int> numberList)
